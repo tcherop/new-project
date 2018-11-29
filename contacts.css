@@ -1,0 +1,98 @@
+body{
+	background-image: url("https://images3.pixlis.com/background-image-checkers-chequered-checkered-squares-seamless-tileable-mona-lisa-don-juan-236979.png");
+}
+h1{
+	font-size: 100px;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	text-decoration: underline;
+}
+ul{ 
+background-color: black;
+margin-left: 0px;
+margin-right: 0px;
+text-decoration: none;
+color: white;
+
+
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color: white;
+ }
+
+li{
+
+	list-style: none;
+	display:inline;
+	margin: 110px;
+	text-align: center;
+	margin-left: 10px;
+	font-size: 40px;
+	text-decoration: none;
+	color:white;}
+
+	a {
+    text-decoration: none;
+    display: inline;
+   padding:20px;
+}
+
+a:hover {
+    background-color:black;
+    color: white;
+}
+
+.previous {
+    background-color:black;
+    color: white;
+}
+
+#yes{
+    width: 500px;
+    height:600px;
+    z-index: -1px;
+    margin-left:205px;
+    margin-top: 20px;
+    padding-left: 50px;
+    border-radius: 25px;
+
+
+
+}
+.fa {
+  padding: 70px;
+  font-size: 50px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;}
+
+ .fa-twitter {
+  background:/* #55ACEE;*/white;
+  color: black;
+  size: 40px;
+}
+.fa-instagram {
+  background: /*#125688;*/black;
+  color: white;
+}
+
+.fa-pinterest {
+  background: /*#cb2027;*/white;
+  color: black;
+}
+
+.fa-snapchat-ghost {
+  background:/* #fffc00;*/ black;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
